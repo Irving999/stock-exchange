@@ -25,5 +25,5 @@ API_KEY=your_finhub_key
 4. Start the server
 
 ```sh
-npm run dev
+node index
 ```
